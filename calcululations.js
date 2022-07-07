@@ -16,3 +16,7 @@ function multiply(a, b) {
 console.log(sum(4, 5))
 console.log(divide(10, 5))
 console.log(multiply(4, 5))
+
+function modulus(a, b) {
+  return Number(a) % Number(b);
+}
