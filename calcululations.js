@@ -12,3 +12,7 @@ function divide(a, b) {
 function multiply(a, b) {
   return Number(a) * Number(b);
 }
+
+function modulus(a, b) {
+  return Number(a) % Number(b);
+}
