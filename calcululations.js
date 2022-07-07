@@ -12,3 +12,7 @@ function divide(a, b) {
 function multiply(a, b) {
   return Number(a) * Number(b);
 }
+
+console.log(sum(4, 5))
+console.log(divide(10, 5))
+console.log(multiply(4, 5))
